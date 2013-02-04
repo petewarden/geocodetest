@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		59C077C616BF489200374F24 /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		59C077C716BF489200374F24 /* geocodetest.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = geocodetest.rb; sourceTree = "<group>"; };
+		59C077C816BF489200374F24 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		59C077C916BF489200374F24 /* testinput.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = testinput.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		59C077BF16BF487800374F24 = {
+			isa = PBXGroup;
+			children = (
+				59C077C616BF489200374F24 /* Gemfile */,
+				59C077C716BF489200374F24 /* geocodetest.rb */,
+				59C077C816BF489200374F24 /* README */,
+				59C077C916BF489200374F24 /* testinput.txt */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		59C077C016BF487800374F24 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+			};
+			buildConfigurationList = 59C077C316BF487800374F24 /* Build configuration list for PBXProject "geocodetest" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 59C077BF16BF487800374F24;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		59C077C416BF487800374F24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		59C077C516BF487800374F24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		59C077C316BF487800374F24 /* Build configuration list for PBXProject "geocodetest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59C077C416BF487800374F24 /* Debug */,
+				59C077C516BF487800374F24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 59C077C016BF487800374F24 /* Project object */;
+}

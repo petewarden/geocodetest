@@ -205,7 +205,7 @@ if __FILE__ == $0
         end
       end
     end
-    output << address
+    output << '"' + address.strip + '"'
     puts output.join(',')
   end
 

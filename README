@@ -1,1 +1,12 @@
+Measures the quality of address to coordinate results across multiple services.
+
+Pete Warden - pete@jetpac.com
+
+To install:
 sudo bundle install
+
+For help:
+./geocodetest.rb -h
+
+Quick start:
+./geocodetest.rb -i testinput.txt
